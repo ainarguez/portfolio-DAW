@@ -1,23 +1,15 @@
-<h2> Hi, I'm Ainara! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>I study web application development at <a href="https://cifpzonzamas.org/web3/index.php">Cifp Zonzamas </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Portfolio
 
-###  A little more about me...  
+<h4>This is my portfolio as a web application development student at Cifp Zonzamas.</h4>
+<p> It showcases the projects I have completed during my studies, focusing on various technologies like HTML, CSS, JavaScript, and more. As I continue to learn and improve my skills, I will keep adding new projects that reflect my progress and passion for web development.</p>
+<p>For now, it includes the work I have done so far in this course, and I look forward to updating it as I gain more experience and complete new challenges.</p>
 
-```javascript
-const ainara = {
-  pronouns: "she" | "her",
-  code: [HTML, CSS, Bootstrap, Javascript, PHP, Python, MySQL],
-  languages: { spanish: "Native", english: "B1", german: "A2" }
-  currentProject: {
-         name: "Portfolio DAW",
-         description: "Building an interactive portfolio."
-  },
-}
-```
-
-<p>I haven't finished my studies yet, so I will be adding more content and making changes as I progress.</p>
+> [!NOTE]
+> <ul>
+>    <li> The portfolio is currently under development. </li>
+>    <li>Projects will be added as they are completed, but for the time being, it remains in a provisional version.</li>
+>    <li>I haven't finished my studies yet, so I will be adding more content and making changes as I progress.</li>
+>  </ul>
 
 
-<em><b>I'm always open to new opportunities.</b> If you're looking for someone passionate about web development and design, let's connect! :)</em>
