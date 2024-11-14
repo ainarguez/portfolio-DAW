@@ -5,7 +5,7 @@
 <p> It showcases the projects I have completed during my studies, focusing on various technologies like HTML, CSS, JavaScript, and more. As I continue to learn and improve my skills, I will keep adding new projects that reflect my progress and passion for web development.</p>
 <p>For now, it includes the work I have done so far in this course, and I look forward to updating it as I gain more experience and complete new challenges.</p>
 
-> [!NOTE]
+>  **IMPORTANT:**
 > <ul>
 >    <li> The portfolio is currently under development. </li>
 >    <li>Projects will be added as they are completed, but for the time being, it remains in a provisional version.</li>
